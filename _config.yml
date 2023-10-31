@@ -118,15 +118,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /multitisa23/
+  url: /
 - title: About
-  url: /multitisa23/#about
+  url: /#about
 - title: Submission Guidelines
-  url: /multitisa23/#submission-guidelines
+  url: /#submission-guidelines
 - title: Keynotes
-  url: /multitisa23/#keynotes
+  url: /#keynotes
 - title: Program
-  url: /multitisa23/#program
+  url: /#program
 
 navigation_footer:
 - title: Created by Jens d'Hondt
